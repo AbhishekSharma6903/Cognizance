@@ -1,0 +1,24 @@
+#Problem 1
+#Program to find number is divisible by 3 
+#{ if number is divisible by 3 :
+                reture TRUE
+   else:
+      return FALSE }
+                                       #{a=returen value}
+declearing variables - a,n,i           #{n=input number}
+initializing - a=0
+             - i=3
+Condotion 1 :
+if n>0 :
+    for(i to n+1):                      #{i=i+3 , step value of i is 3}
+        if n==i :                       #value of i increase by 3 and if it matches input , then its a multiple of 3
+            a=1
+        else: 
+            a=0
+    if a==1:
+        print"TRUE"
+    else:
+        print"FALSE""        
+else:                                   #case when the number is negative
+   print"Enter a positive number"
+

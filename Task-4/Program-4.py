@@ -9,3 +9,4 @@ if m == rev:
     print(rev ," Is palindrome ")
 else:
     print(rev ," Is not palindrome ")
+input()

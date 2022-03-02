@@ -1,16 +1,13 @@
 # THE GAMING EXPO
-[![logo](https://www.behance.net/gallery/9671837/Gaming-Nation-Logo-Concept)]
+![logo](https://i.pinimg.com/originals/ed/77/3e/ed773e81dfb2fc357036cf5048efb14a.gif)
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)]
+
 
 [View banner](https://github.com/AbhishekSharma6903/Cognizance/blob/hi/Task-3/Landing%20Page.png "Landing page")
 ## 🔸Theme:- ##
 ***The theme of the task-3 was about the Gaming expo which is aimed at creating an excellent platform for all stakeholders in the Indian and international gaming market to showcase new trends and technologies in the gaming arena.*** 🐱‍👤
 
 ---
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
-")
 
 ## 🔸Motivation:- ##
 ###### Highly Demanding Market Of Gaming Industry ######
@@ -18,6 +15,8 @@
 
 **Along with Android, iPhone and Windows devices are the popular choice for digital gaming platforms.**
 
+![MasterHead](https://static.wixstatic.com/media/188e26_c62ea3663f104f13bf77ad475b5484b1~mv2.gif
+)
 **The industry is set to see an explosion of growth. Virtual reality and 3D gaming are soon to enter the mainstream market, along with a host of new, revolutionary technologies to serve as peripherals for enhancing the digital gaming experience.**
 
 **As the Covid-19 pandemic forces people to stay indoors, consumption on digital media platforms has increased. Not just streaming platforms, gaming platforms have also seen a surge of users and increase in the amount of time spent by consumers on such platforms.**
@@ -29,6 +28,7 @@
 
 # 🔸Future Plans and services :- #
 ## Promoting the Aatm nirbhar bharat campaign✔
+![rog](https://c.tenor.com/RylFIKwXncAAAAAC/japan-aesthetic.gif)
 
 **Bringing out the best talented startups nation wide and providing them support, for the optimistion in the unicorns in india.**
 

@@ -1,11 +1,16 @@
 # THE GAMING EXPO
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dcYiEw9yz9wrvkZMvJtmWWJ5FkRfBuDDgA&usqp=CAU
+[![logo](https://www.behance.net/gallery/9671837/Gaming-Nation-Logo-Concept)]
 
-![Register now](https://github.com/AbhishekSharma6903/Cognizance/blob/hi/Task-3/Landing%20Page.png?raw=true"See Banner")
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
+)]
+
+[View banner](https://github.com/AbhishekSharma6903/Cognizance/blob/hi/Task-3/Landing%20Page.png "Landing page")
 ## 🔸Theme:- ##
 ***The theme of the task-3 was about the Gaming expo which is aimed at creating an excellent platform for all stakeholders in the Indian and international gaming market to showcase new trends and technologies in the gaming arena.*** 🐱‍👤
 
 ---
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+")
 
 ## 🔸Motivation:- ##
 ###### Highly Demanding Market Of Gaming Industry ######

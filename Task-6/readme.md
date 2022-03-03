@@ -5,7 +5,7 @@
 
 [View banner](https://github.com/AbhishekSharma6903/Cognizance/blob/hi/Task-3/Landing%20Page.png "Landing page")
 # 🔸Theme:- ##
-<span style="color: gold">The theme of the task-3 was about the Gaming expo which is aimed at creating an excellent platform for all stakeholders in the Indian and international gaming market to showcase new trends and technologies in the gaming arena. 🐱‍👤</span>
+<span style="color: yellow">The theme of the task-3 was about the Gaming expo which is aimed at creating an excellent platform for all stakeholders in the Indian and international gaming market to showcase new trends and technologies in the gaming arena. 🐱‍👤</span>
 
 ---
 

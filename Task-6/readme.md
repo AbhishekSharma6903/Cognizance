@@ -5,7 +5,7 @@
 
 [View banner](https://github.com/AbhishekSharma6903/Cognizance/blob/hi/Task-3/Landing%20Page.png "Landing page")
 # 🔸Theme:- ##
-<span style="color: yellow">The theme of the task-3 was about the Gaming expo which is aimed at creating an excellent platform for all stakeholders in the Indian and international gaming market to showcase new trends and technologies in the gaming arena. 🐱‍👤</span>
+![2022-03-03 (5)](https://user-images.githubusercontent.com/99632495/156507569-e65fd5b8-852c-4e05-a325-1eeaa38f71db.png)
 
 ---
 
@@ -21,20 +21,18 @@
 
 **As the Covid-19 pandemic forces people to stay indoors, consumption on digital media platforms has increased. Not just streaming platforms, gaming platforms have also seen a surge of users and increase in the amount of time spent by consumers on such platforms.**
 
-<span style="color: yellow">The global video game industry is thriving, despite the widespread economic disruption caused by the coronavirus.</span>
-
 ---
+![2022-03-03 (4)](https://user-images.githubusercontent.com/99632495/156507716-52a45477-4d4f-4e2a-8d9b-26ffcd395c13.png)
 
 
-# 🔸Future Plans and services :- #
-<span style="color: orange"> Promoting </span>the Aatm nirbhar <span style="color: green">bharat campaign</span>✔
 ![rog](https://c.tenor.com/RylFIKwXncAAAAAC/japan-aesthetic.gif)
 
 **Bringing out the best talented startups nation wide and providing them support, for the optimistion in the unicorns in india.**
 
 ###### Giving exposure to the youth. ######
 **Inspiring the youth and supporting their ideas and works through events , expos.
-providing them proper branding and launching environment.**
+providing them proper branding and launching 
+environment.**
 
 ## Our Services will Boost up the Gaming Industry✔
 **The industry is so wast that it would provide Employment to the people in large number and could contribute in nations GDP**

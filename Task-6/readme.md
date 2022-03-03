@@ -4,12 +4,12 @@
 
 
 [View banner](https://github.com/AbhishekSharma6903/Cognizance/blob/hi/Task-3/Landing%20Page.png "Landing page")
-## 🔸Theme:- ##
-***The theme of the task-3 was about the Gaming expo which is aimed at creating an excellent platform for all stakeholders in the Indian and international gaming market to showcase new trends and technologies in the gaming arena.*** 🐱‍👤
+# 🔸Theme:- ##
+<span style="color: gold">The theme of the task-3 was about the Gaming expo which is aimed at creating an excellent platform for all stakeholders in the Indian and international gaming market to showcase new trends and technologies in the gaming arena. 🐱‍👤</span>
 
 ---
 
-## 🔸Motivation:- ##
+# 🔸Motivation:- ##
 ###### Highly Demanding Market Of Gaming Industry ######
 **Digital gaming is not a new phenomenon. It has been around since the time of indoor games; only changing its form. Digital gaming has evolved over the years and has become an independent industry with great creative and professional potential.**
 
@@ -21,13 +21,13 @@
 
 **As the Covid-19 pandemic forces people to stay indoors, consumption on digital media platforms has increased. Not just streaming platforms, gaming platforms have also seen a surge of users and increase in the amount of time spent by consumers on such platforms.**
 
-*The global video game industry is thriving, despite the widespread economic disruption caused by the coronavirus.*
+<span style="color: yellow">The global video game industry is thriving, despite the widespread economic disruption caused by the coronavirus.</span>
 
 ---
 
 
 # 🔸Future Plans and services :- #
-## Promoting the Aatm nirbhar bharat campaign✔
+<span style="color: orange"> Promoting </span>the Aatm nirbhar <span style="color: green">bharat campaign</span>✔
 ![rog](https://c.tenor.com/RylFIKwXncAAAAAC/japan-aesthetic.gif)
 
 **Bringing out the best talented startups nation wide and providing them support, for the optimistion in the unicorns in india.**
